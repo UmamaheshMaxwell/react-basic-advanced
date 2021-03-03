@@ -1,0 +1,32 @@
+What is ReactJS
+----------------
+Open source javascript library for building user interfaces - It is not framework
+
+Why to learn ReactJS
+--------------------
+1. Component based architecture
+2. created and maintained by facebook
+3. Huge Community
+
+React is declarative
+--------------------
+Tell React what you want and react will build the actual UI
+
+Prerequisites
+-------------
+HTML
+CSS
+Javascript - 'this' keyword, map, filyer, reduce
+ES6 - let & const , arrow functions, template literals, object literals
+NodeJS 
+
+npx- is npm package runner, it gets installed when we install node
+
+Functional Components
+----------------------
+Are just Javascript functions that accepts input properties and 
+returns HTML that describes UI
+
+Components
+----------
+Represents the part of the interfacee
